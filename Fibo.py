@@ -3,8 +3,7 @@ def fibonacci(n):
     a, b = 0, 1
     for _ in range(n):
         series.append(a)
-        # print("change4")
-        # print(hi)
+        print("got it")
     return series
 
 print(fibonacci(10))
