@@ -4,7 +4,8 @@ def fibonacci(n):
     for _ in range(n):
         series.append(a)
         a, b = b, a + b
-        print(a)
+        print(a,b)
+        print("change1")
     return series
 
 print(fibonacci(10))
