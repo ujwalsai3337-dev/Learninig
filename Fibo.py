@@ -1,3 +1,5 @@
+
+# second branch
 def fibonacci(n):
     series = []
     a, b = 0, 1
@@ -5,6 +7,7 @@ def fibonacci(n):
         series.append(a)
         print("now finished all")
         print("hello2")
+        print("using stash")
     return series
 
 print(fibonacci(10))
