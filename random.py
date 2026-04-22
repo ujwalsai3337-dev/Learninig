@@ -1,5 +1,4 @@
 
-# first branch
 import random
 
 def guess_the_number():
@@ -11,8 +10,4 @@ def guess_the_number():
     else:
         print(f"❌ Nope! The number was {number}")
 
-print("feteched from the restore-branch this is the second branch ntg")
-
 guess_the_number()
-
-print("X--Y")

@@ -1,5 +1,5 @@
 
-# first branch
+
 def fibonacci(n):
     series = []
     a, b = 0, 1
@@ -10,7 +10,3 @@ def fibonacci(n):
         print("using stash")
     return series
 
-
-print("22-april")
-print(fibonacci(10))
-print("just see")
